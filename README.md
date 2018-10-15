@@ -1,2 +1,2 @@
-# 02_BattleTank
+# BattleTank
 Tank vs Tonk
